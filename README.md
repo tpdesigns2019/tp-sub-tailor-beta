@@ -2,6 +2,8 @@
 
 Thanks for testing **TP Sub Tailor** by TP Designs!
 
+![TP Sub Tailor](images/latest/tp-sub-tailor-ui.png)
+
 ## Download
 Open **[Releases](../../releases/latest)** and download the `.zip` under *Assets*.
 
